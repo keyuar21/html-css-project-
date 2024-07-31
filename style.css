@@ -1,0 +1,67 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: rgb(182, 158, 158);
+    text-align: center;
+    color: rgb(54, 4, 4);
+    font-size: 50px;
+    margin-bottom: 2px;
+}
+
+h4 {
+    text-align: right;
+    color: rgb(124, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+.container
+{
+    width: 80%;
+            margin: 20px auto;
+            width: 1000px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.oeYQd {
+    color: black;
+    height: 41px;
+    background: rgb(255, 224, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oeYQd .block {
+    margin: 0 10px; /* Adjusted to space items horizontally */
+    padding: 5px 10px; /* Adds padding inside the button */
+    background: rgb(255, 255, 255); /* Button background color */
+    border: 2px solid rgb(200, 200, 200); /* Button border */
+    border-radius: 5px; /* Rounded corners */
+    text-align: center; /* Center text inside the button */
+}
+
+.oeYQd .block a {
+    color: rgb(11, 11, 11);
+    text-decoration: none;
+}
+
+.instagram {
+    background: #125688; /* Instagram color */
+    padding: 0; /* Reset padding */
+    border-radius: 50%; /* Make it circular */
+    align-items: center;
+}
+
+.instagram a {
+    color: white; /* Icon color */
+    font-size: 24px; /* Icon size */
+    text-decoration: none; /* Remove underline */
+}
+
+.instagram a:hover {
+    color: #E1306C; /* Instagram color on hover */
+}
